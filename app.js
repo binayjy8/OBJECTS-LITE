@@ -6,17 +6,35 @@
 //     likes: 278
 // };
 
-const studentInfo = {
-    Binay: {
+// const studentInfo = {
+//     Binay: {
+//         grade: "A+",
+//         city: "Bhubaneswar"
+//     },
+//     sradha: {
+//         grade: "D-",
+//         city: "Delhi"
+//     },
+//     kunja: {
+//         grade: "A",
+//         city: "Kendujhar"
+//     }
+// };
+
+let studentInfo = [
+    {
+        name: "Binay",
         grade: "A+",
         city: "Bhubaneswar"
     },
-    sradha: {
+    {
+        name: "sradha",
         grade: "D-",
         city: "Delhi"
     },
-    kunja: {
+    {
+        name: "Kunja",
         grade: "A",
         city: "Kendujhar"
     }
-};
+];
