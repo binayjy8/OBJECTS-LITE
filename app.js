@@ -6,9 +6,17 @@
 //     likes: 278
 // };
 
-const student = {
-    name: "Binay",
-    age: 26,
-    marks: 54,
-    city: "Bhubaneswar"
+const studentInfo = {
+    Binay: {
+        grade: "A+",
+        city: "Bhubaneswar"
+    },
+    sradha: {
+        grade: "D-",
+        city: "Delhi"
+    },
+    kunja: {
+        grade: "A",
+        city: "Kendujhar"
+    }
 };
