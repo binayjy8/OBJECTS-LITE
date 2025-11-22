@@ -1,1 +1,1 @@
-# OBJECTS-LITE gives t
+# OBJECTS-LITE gives th
