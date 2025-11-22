@@ -1,1 +1,1 @@
-# OBJECTS-LITE gives the prase with
+# OBJECTS-LITE gives the prase wit
