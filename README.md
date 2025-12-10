@@ -1,1 +1,1 @@
-# OBJECTS-LITE The auther of thi
+# OBJECTS-LITE The auther of this
