@@ -1,1 +1,1 @@
-# OBJECTS-LITE The authe
+# OBJECTS-LITE The auth
